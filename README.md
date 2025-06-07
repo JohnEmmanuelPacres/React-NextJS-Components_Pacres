@@ -52,6 +52,7 @@ Implementing them in the page.jsx, looks like this:
 ```
 
 It's output will then look like this:
+
 ![](./Welcome_Card.png)
 
 Moreover, this is a snippet implementation of my welcome card in my page.js with a DOM structure of section -> division (div) -> header (h2) -> paragraph (p):
@@ -134,6 +135,7 @@ In implementing the counter component to the page.js, I implemented a similar DO
 </section>
 ```
 Here is a sample output of counter:
+
 ![](./Counter.png)
 
 ## StudentInfo
@@ -201,9 +203,11 @@ In implementing it inside the page.js file, this is its DOM structure:
 </section>
 ```
 Default state sample output:
+
 ![](./StudentInfo1.png)
 
 After submission:
+
 ![](./StudentInfo2.png)
 
 
